@@ -6,10 +6,10 @@ PERANCANGAN ALGORITMA (PSEUDOCODE)
 
 A. IDENTITAS SISWA
 
-Nama Lengkap :
-Kelas        :
-Nomor Absen  :
-Username GitHub :
+Nama Lengkap :Rehan Dhani Nurul Firdaus
+Kelas        :XII 8
+Nomor Absen  :31
+Username GitHub :rehandhani
 
 B. JUDUL PROGRAM
 
